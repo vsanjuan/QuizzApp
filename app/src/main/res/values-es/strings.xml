@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizz App</string>
+    <string name="question_1">¿Cuál de los siguientes es un loop logístico?</string>
+    <string name="question_2">Un fabricante prevé fabricar 200.000 coches durante 4 años. Un proveedor tiene previsto suministrar 2 piezas por cada vehículo. Suponiendo que las piezas tardan en llegar 5 días a la planta y que se quiere mantener un stock de seguridad de 5 días repartido entre ambas plantas ¿Cuántas piezas necesitará mantener en stock?</string>
+    <string name="question_3">Si el tráiler de un camión mide 11 metros de largo x 2450mm metros de ancho x 2450mm ¿Cuántos boxes pallets de 1000x1200x1000 mm le caben?</string>
+    <string name="question_4">Si al volver el pallet del ejercicio anterior vacío puede plegarse pasando de 1000mm de altura a 200 mm. ¿Cuántos pallets vacíos caben en un tráiler?</string>
+    <string name="question_5">Suponiendo que la distancia que tiene recorrer el camión entre las plantas del loop es de 2.000 km y el coste por kilómetro es de un euro. ¿Qué ahorro se obtiene en los cuatro de años de vida del vehículo gracias al plegado?</string>
+    <string name="submit">Enviar</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quizz App</string>
+    <string name="question_1">Q1. What of the following is a logistic loop?</string>
+    <string name="question_2">Q2. A manufacturer forecast a production of 200,000 cars the next four years. A supplier will supply
+    two parts for every vehicle. If we assume it will take five days to the parts to move from the supplier to the plant and the
+    safety stock to add five days more. How many pieces will be in the loop in any one moment?</string>
+    <string name="question_2_ans_1" translatable="false">1000</string>
+    <string name="question_2_ans_2" translatable="false">2000</string>
+    <string name="question_2_ans_3" translatable="false">2750</string>
+    <string name="question_3">How may box pallets 1200x1000x1000 mm fit in a truck 11,00x2,45x2,45mts ?</string>
+    <string name="question_4">An empty pallet can be folded to 200 mm height. Looking at the previous question. How many empty palllet would fit now in the truck?</string>
+    <string name="question_4_ans_1" translatable="false">1500</string>
+    <string name="question_4_ans_2" translatable="false">8650</string>
+    <string name="question_4_ans_3" translatable="false">10000</string>
+    <string name="question_5">If the distance between the supplier and the plant is 2.000 km. What are the saving in transport cost because of folding during the 4 year life project span ?</string>
+    <string name="submit">Submit</string>
+</resources>
